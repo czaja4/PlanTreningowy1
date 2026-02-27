@@ -77,7 +77,7 @@ Aplikację można w przyszłości rozbudować o:
 * Ulepszenie interfejsu graficznego (Material Design).
 
 7. Struktura
-
+```
 plantreningowy/
 └─ app/
    └─ src/
@@ -96,8 +96,8 @@ plantreningowy/
          │  │  ├─ strings.xml
          │  │  ├─ colors.xml
          │  │  └─ themes.xml
-         │  ├─ drawable/               (opcjonalne grafiki)
-         │  └─ mipmap/                 (ikony aplikacji)
+         │  ├─ drawable/               
+         │  └─ mipmap/                 
          └─ AndroidManifest.xml
-
+```
 Data wykonania: 2026
