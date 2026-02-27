@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Plan Treningowy</string>
+    <string-array name="training_type_array">
+        <item>Siłowy</item>
+        <item>Cardio</item>
+        <item>Stretching</item>
+    </string-array>
+</resources>
